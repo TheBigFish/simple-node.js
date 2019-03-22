@@ -1,0 +1,12 @@
+{
+    "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Program",
+      "program": "${workspaceFolder}/cli/readdir.js",
+      "console": "internalConsole", 
+      "outputCapture": "std"
+    }
+  ]
+}
